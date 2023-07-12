@@ -2,7 +2,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 import javax.swing.*;
-
+/*
+ * Vincent Testagrossa
+ * CMSC 451
+ * 12JUL2023
+ */
 public class ReaderApp {
     public static void main(String[] args) throws Exception {
         try {

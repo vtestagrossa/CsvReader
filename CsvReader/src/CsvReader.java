@@ -9,7 +9,11 @@ import javax.swing.table.DefaultTableModel;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-
+/*
+ * Vincent Testagrossa
+ * CMSC 451
+ * 12JUL2023
+ */
 public class CsvReader {
     //Stores the elements to be loaded into the data object and the columnNames for the table
     private ArrayList<String[]> elements = new ArrayList<String[]>();
