@@ -29,7 +29,7 @@ public class ReaderApp {
             //Add the scrollpane tothe frame and set the size, close operation,
             //and visibility
             frame.add(scrollPane);
-            frame.setSize(800, 250);
+            frame.setSize(800, 260);
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             frame.setVisible(true);
         } catch (FileNotFoundException ex) {
